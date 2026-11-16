@@ -1,0 +1,8 @@
+node_modules/
+.angular/
+__pycache__/
+*.db
+node_modules/
+.angular/
+__pycache__/
+*.db
